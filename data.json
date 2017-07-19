@@ -1,0 +1,17 @@
+[{"name":"净利润",        "value":"139272.91","year_on_year_fluctuation":"30.45%","parentID":"1",  "relation":""},
+  {"name":"利润总额",      "value":"194906.21","year_on_year_fluctuation":"-35.46%","parentID":"11", "relation":"-"},
+  {"name":"所得税费用",    "value":"55633.30", "year_on_year_fluctuation":"45.32%","parentID":"12", "relation":""},
+  {"name":"营业利润",      "value":"160801.48","year_on_year_fluctuation":"-38.61%","parentID":"111","relation":"+"},
+  {"name":"营业利润",      "value":"160801.48","year_on_year_fluctuation":"-38.61%","parentID":"112","relation":"+"},
+  {"name":"营业外收支净额","value":"34104.74", "year_on_year_fluctuation":"-14.80%","parentID":"121","relation":"+"},
+  {"name":"营业外收支净额","value":"34104.74", "year_on_year_fluctuation":"-14.80%","parentID":"122","relation":"+"},
+  {"name":"营业外收支净额","value":"34104.74", "year_on_year_fluctuation":"14.80%","parentID":"1121","relation":""},
+  {"name":"营业外收支净额","value":"34104.74", "year_on_year_fluctuation":"-14.80%","parentID":"1122","relation":""},
+  {"name":"营业外收支净额","value":"34104.74", "year_on_year_fluctuation":"14.80%","parentID":"1123","relation":""},
+  {"name":"营业外收支净额","value":"34104.74", "year_on_year_fluctuation":"-14.80%","parentID":"1124","relation":""},
+  {"name":"营业外收支净额","value":"34104.74", "year_on_year_fluctuation":"14.80%","parentID":"1211","relation":"+"},
+  {"name":"营业外收支净额","value":"34104.74", "year_on_year_fluctuation":"-14.80%","parentID":"1212","relation":""},
+  {"name":"营业外收支净额","value":"34104.74", "year_on_year_fluctuation":"-14.80%","parentID":"1213","relation":""},
+  {"name":"营业外收支净额","value":"34104.74", "year_on_year_fluctuation":"-14.80%","parentID":"1214","relation":""},
+  {"name":"营业外收支净额","value":"34104.74", "year_on_year_fluctuation":"-14.80%","parentID":"1215","relation":""}
+]

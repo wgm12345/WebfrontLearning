@@ -1,0 +1,46 @@
+{
+  "last_year_rate": 1.00 , "name": "flare",
+  "children": [{
+    "last_year_rate": 1.00 , "name": "analytics",
+    "children": [{
+      "last_year_rate": 1.00 , "name": "cluster",
+      "children": [{
+        "last_year_rate": 1.00 , "name": "电力产品主营业务收入净额",
+        "relation":"+","last_year_value": 2333, "value": 3938
+      }, {
+        "last_year_rate": 1.00 , "last_year_rate": 1.00 , "name": "CommunityStructure",
+        "relation":"/","last_year_value": 2333, "value": 3812
+      }]
+    }, {
+      "last_year_rate": 1.00 , "name": "graph",
+      "children": [{
+        "last_year_rate": 1.00 , "name": "Betweennes",
+        "relation":"+","last_year_value": 2333, "value": 3534
+      }, {
+        "last_year_rate": 1.00 , "name": "LinkDistance",
+        "relation":"+","last_year_value": 2333, "value": 123456789.12
+      }]
+    }]
+  }, {
+    "last_year_rate": 1.00 , "name": "电力产品主营业务收入净额",
+    "children": [{
+      "last_year_rate": 1.00 , "name": "interpolate",
+      "children": [{
+        "last_year_rate": 1.00 , "name": "ArrayInter",
+        "relation":"-","last_year_value": 2333, "value": 1983
+      }, {
+        "last_year_rate": 1.00 , "name": "ColorInterpol",
+        "relation":"+","last_year_value": 2333, "value": 2047
+      }, {
+        "last_year_rate": 1.00 , "name": "NumberInterpo",
+        "relation":"-","last_year_value": 2333, "value": 1382
+      }, {
+        "last_year_rate": 1.00 , "name": "ObjectInterpol",
+        "relation":"+","last_year_value": 2333, "value": 1629
+      }]
+    }, {
+      "last_year_rate": 1.00 , "name": "ISchedulable",
+      "relation":"-","last_year_value": 2333, "value": 1041
+    }]
+  }]
+}
