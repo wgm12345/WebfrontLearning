@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>file work flow created by mxgragh</title>
+    <!-- Sets the basepath for the library if not in same directory -->
+    <script type="text/javascript">
+        mxBasePath = '../src';
+    </script>
+
+    <!-- Loads and initializes the library -->
+    <script type="text/javascript" src="../src/js/mxClient.js"></script>
+
+    <style>
+        body{
+            margin: 4px;
+        }
+
+        #tbContainer{
+            position: absolute;
+            overflow: hidden;
+            padding: 2px;
+            left: 0;
+            top: 0;
+            width: 24px;
+            bottom: 0px;
+        }
+
+        #graphContainer{
+            position: absolute;
+            overflow: hidden;
+            left: 120px;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            background: url("editors/images/grid.gif");
+        }
+
+    </style>
+</head>
+<body onload="main(document.getElementById('graphContainer'),document.getElementById('tbContainer'));">
+
+    <div id="tbContainer"></div>
+    <div id="graphContainer"></div>
+
+</body>
+    <script type="text/javascript" src="workflow.js"></script>
+</html>
