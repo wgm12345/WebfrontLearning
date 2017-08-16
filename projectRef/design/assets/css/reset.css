@@ -1,0 +1,59 @@
+*{margin:0; padding:0; font-family:arial; font-size:12px;}
+html,body{ font-size:12px; min-width:1000px;}
+ul,ol,li{ list-style:none;}
+.panel-body{ border-color:#c6daed;}
+.pointBody{ padding-left:30px;padding-top:30px}
+.mydiv{ background:url(../../assets/images/windowBg.png) repeat-x; filter:none;}
+.top{height:5px; background:#3c97c2; box-shadow:0 0 10px #003953; margin-bottom:10px;}
+.side{ width:220px; background:#eceff1; border-right:1px solid #b6cae1;}
+hr{ height:1px; background:#dcdcdc; border:none; clear:both; width:100%; margin-bottom:10px;}
+.main{ background:url(../../assets/images/mainBg.jpg) no-repeat right bottom; padding:5px;}
+.reUl{ clear:both; overflow:hidden; padding:4px 0;}
+.reUl li{ float:left; margin-right:20px;}
+.reUl label em{ font-size:14px; font-weight:bold; color:#F00; vertical-align:middle; margin:0 3px;}
+.reUl label b{ font-size:14px; font-weight:bold; color:#333; vertical-align:middle; margin:0 3px;}
+.reUl.li2 li{ margin:0; width:50%;}
+.reUl.li3 li{ margin:0; width:33%;}
+.reUl.li4 li{ margin:0; width:25%;}
+.reUl.li5 li{ margin:0; width:20%;}
+.reUl.lab1 label{ display:inline-block; width:60px; text-align:right;}
+.reUl.lab2 label{ display:inline-block; width:80px; text-align:right;}
+.reUl.lab3 label{ display:inline-block; width:100px; text-align:right;}
+.reUl.lab4 label{ display:inline-block; width:120px; text-align:right;}
+.reUl.lab5 label{ display:inline-block; width:140px; text-align:right;}
+.toolsBar{ height:39px;border:0px solid #b6cae1;  background-color: #f2f4f5;
+  background: -webkit-linear-gradient(top,#fff 0,#f2f4f5 100%);
+  background: -moz-linear-gradient(top,#fff 0,#f2f4f5 100%);
+  background: -o-linear-gradient(top,#fff 0,#f2f4f5 100%);
+  background: linear-gradient(to bottom,#fff 0,#f2f4f5 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff,endColorstr=#f2f4f5,GradientType=0);
+}
+.toolsBar ul{ float:left; padding:0 2px 0 1px;}
+.toolsBar ul li{ float:left; padding:0 1px;cursor:pointer;}
+.toolsBar ul li:hover{ padding:0; border-left:1px solid #d8dfe5; border-right:1px solid #d8dfe5; box-shadow:0 3px 6px #d8dfe5 inset; background-color: #e0e5e9;
+  background: -webkit-linear-gradient(top,#fefeff 0,#d4dbe0 100%);
+  background: -moz-linear-gradient(top,#fefeff 0,#d4dbe0 100%);
+  background: -o-linear-gradient(top,#fefeff 0,#d4dbe0 100%);
+  background: linear-gradient(to bottom,#fefeff 0,#d4dbe0 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff,endColorstr=#d4dbe0,GradientType=0);}
+.toolsBar ul li a{ display:block; height:39px; line-height:39px; text-decoration:none; color:#333; padding:0 8px 0 28px;}
+.toolsBar ul li a.tool01{ background-position:3px 0;}
+
+.appIcon li{ position:relative; cursor:pointer;}
+.appIcon li span{ display:block; height:30px; line-height:30px; border-top:1px solid #fff; border-bottom:1px solid #cfddec; text-indent:20px;}
+.appIcon li span:hover{ background-color: #e0e5e9;
+  background: -webkit-linear-gradient(top,#fefeff 0,#d4dbe0 100%);
+  background: -moz-linear-gradient(top,#fefeff 0,#d4dbe0 100%);
+  background: -o-linear-gradient(top,#fefeff 0,#d4dbe0 100%);
+  background: linear-gradient(to bottom,#fefeff 0,#d4dbe0 100%);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff,endColorstr=#d4dbe0,GradientType=0);}
+.appIcon li ul{ background:#e0e5e9; line-height:30px; border-top:1px solid #fff; border-bottom:1px solid #cfddec;}
+.appIcon li ul span{ border:none; text-indent:45px;}
+.appIcon img{ vertical-align:middle; margin-right:5px; margin-top:-2px;}
+.appIcon em,.appIcon b{ display:block; height:30px; width:20px; position:absolute; background:url(../../assets/images/tree_icons_reset.png) no-repeat center 0; cursor:pointer; left:50; top:0;}
+.appIcon b{ background-position:center -30px;}
+.appIcon em:hover{ background-position:center -60px;}
+.appIcon b:hover{ background-position:center -90px;}
